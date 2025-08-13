@@ -20,4 +20,4 @@
 </div>
 
 ### About Me
-I am a junior developer naturalized in Brazil in the Maceio Alagoas region. I have mastery in English and Portuguese and B1 in German And Computer Science Student.
+I am a junior developer naturalized in Brazil in the Maceio Alagoas region. I have mastery in English and Portuguese And Computer Science Student.
