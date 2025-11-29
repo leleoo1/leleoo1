@@ -1,7 +1,7 @@
 
 ### Hello, my name is Leo, I'm a junior backend developer.
 
-![Leo GitHub stats](https://github-readme-stats.vercel.app/api?username=leleoo1&show_icons=true&theme=dark)
+
 
 ### Languages ​​that I am proficient in and work with
 
